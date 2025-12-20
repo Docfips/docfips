@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 This will eventually be my bio. Until then, feel free to look around 😄
-
-I am in no way affiliated with github.com/TheRealDocFips
